@@ -1,134 +1,86 @@
 
-![Logo of the project]()
+![Logo of the project](https://github.com/MatheusBarros07/portfoliogilvan/blob/main/readme/logoGilva.jpg)
 
 
-## SpotCode
-This application is an app clone of spotify made with Ruby (Back end) and ReactJS (Front end) to play musics, see artist's album, their music and made your day more musicable! Did on weekcode of OneBitCode.
+## Gilvan Bezerra
+Este é um site portifolio de uma clinica de estetica dental.
+A ideia principal é usar um layout visando uso em telas te celulares e tabletes, de maneira que, o site se comporte como se fosse um aplicativo, deixando assim algo diferente e incomum. dessa forma, chama mais atenção de potenciais clientes/paciente e mesmo os que já são.
 
 
-## Technology 
+## Tecnologias 
 
-Here are the technologies used in this project.
+Estas são as tecnologias usadas neste projeto.
 
-* Ruby version  2.5.1
-* Rails version 6.0.2
-* SQLite3
+* HTML5
+* CSS3
+* JavaScript
 
-## Services Used
+## Serviços usados
 
 * Github
 
-## Ruby Gems
+## Começando
 
-* Devise
-* Bootstrap
-* JQuery-rails
-* Serviceworker Rails
+* Foi usado nenhum framework nesta versão de site.
+*Apenas HTML e CSS puro
 
+## Como usar
 
-## Getting started
+### 1 - Ao acessar o projeto, você verá esta página inicial.
 
-* Dependency
-  - Ruby  
-  - Rails
+![Inicio](https://github.com/MatheusBarros07/portfoliogilvan/blob/main/readme/inicio.jpeg)
 
-* To create and build your database accord of the project.
-  - rake db:create db:migrate
-  
-* To create the previous files to use on the project, on the database.
-  - rake db:seed
-  
-* To install the gems.
-  - bundle install
-  
-* To run the project.
-  - rails s
+### 2 - Você pode entrar no sistema se você tiver uma conta cadastrada.
 
-## How to use
+![Login](https://github.com/MatheusBarros07/portfoliogilvan/blob/main/readme/login.jpeg)
 
-### 1 - When you access the project, you will see this initial page.
+### 3 - Ou simplesmente crie sua conta.
 
-![Homepage image](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/17.png)
+![Sign up](https://github.com/MatheusBarros07/portfoliogilvan/blob/main/readme/login.jpeg)
 
-### 2 - You can Login in the system if you have an account registered.
+### 4 - Este é o Painel de artigos, onde nele tem constando alguns procedimentos já realizados e dicas para saúde!
 
-![Login](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/16.png)
+![Artigos](https://github.com/MatheusBarros07/portfoliogilvan/blob/main/readme/artigos.jpeg)
 
-### 3 - Or simply create your account.
+### 5 - Clicando na barra de menu inferior, onde tem os i-cons com desenho de "casa", "livro" e "busto", voê pode navegar entre as telas de Inicio, Artigos e Login.
 
-![Sign up](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/15.png)
+![Barra inferior](https://github.com/MatheusBarros07/portfoliogilvan/blob/main/readme/inicio.jpeg)
 
-### 4 - This is the Dashboard!
+### 9 - Você também poderá navegar pelo site pela barra lateral que se encontra no canto superior direiro, no i-con de três pontos.
+![Barra Lateral](https://github.com/MatheusBarros07/portfoliogilvan/blob/main/readme/inicioBarraLateral.jpeg)
 
-![Dashboard](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/14.png)
-![Dashboard](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/13.png)
+## Características
 
-### 5 - You can see more of an album clicking above it.
-
-![Dashboard](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/12.png)
-![Dashboard](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/11.png)
-
-### 6 - You can also search a music, artist or an album accord of it's category!!
-
-![Search tab](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/10.png)
-
-### 7 - Clicking on the category, will return:
-
-  #### 7.1 - It's albums registered.
-
-![Search Albums tab](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/9.png)
-
-  #### 7.2 - It's artists.
-
-![Search Artists tab](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/8.png)
-
-  #### 7.3 - It's musics.
-
-![Search Musics tab](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/7.png)
-
-### 8 - Clicking on the artist, you can see it's perfil like the image above.
-
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/6.png)
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/5.png)
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/4.png)
-
-### 9 - You can access the favorite's tab too like:
-  #### 9.1 - Favorite Albums.
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/3.png)
-
-  #### 9.2 - Favorite Artists.
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/2.png)
-
-  #### 9.3 - Favorite Musics.
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/1.png)
-
-
-## Features
-
-The main features of the application are:
- - Listen Songs.
- - Favorite Albums.
- - Favorite Artists.
- - Favorite Musics.
- - See Album's perfil.
- - See Artist's perfil.
- - Search albums, musics and artists.
+As principais características do site são:
+ - Layouot inovador que parece App, nem todo mundo quer perder tempo baixando um aplicativo.
+ - Login de usuarios que vai desde a pacientes, dentista ou médico, até ao secretario ou administrador da clinica.
+ - Novos potenciais pacientes verão todos os procedimentos que são realizados na clinica pelo profissional.
+ - Feed de inicio bem armonioso e com cores que tornarão a experiencia do usuario ainda mais bacana.
+ - Barra de menu inferior, como App.
+ - Fotos de qualidade.
+ - Responsividade para todas as telas.
 
 
 ## Links
-  - Repository: https://github.com/Lucasdfg07/Spotify_clone
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      Lucassiqueiraferandes07@gmail.com directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
+  - Repositorio: 
+  * tela de inicio
+  https://github.com/MatheusBarros07/portfoliogilvan
+  * tela de Artigos
+  https://github.com/MatheusBarros07/portifoliogilvanartigos
+  * tela de Login
+  https://github.com/MatheusBarros07/logingilvan
+    - Em caso de bugs sensíveis, como vulnerabilidades de segurança, entre em contato
+     mgama868@gmail.com diretamente em vez de usar o rastreador de problemas. Valorizamos o seu esforço
+      para melhorar a segurança e privacidade deste projeto!
 
-  ## Versioning
+  ## Versão
 
   1.0.0.0
 
 
-  ## Authors
+  ## Autor
 
-  * **Lucas Siqueira Fernandes** 
+  * **Antonio Matheus Santos Barros** 
 
-  Please follow github and join us!
-  Thanks to visiting me and good coding!
+  Siga o github e junte-se a nós!
+  Obrigado por me visitar e boa codificação!
